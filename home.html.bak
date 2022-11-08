@@ -13,11 +13,20 @@
 		</style>
     </head>
     <body>
+		 <section class="section">
+            <div class="container">
+                <div class="content is-flex is-justify-content-center">
+                  <h2 class="is-justify-content-center title-puli">
+                    <span class="title-1">PULI</s> <span class="title-2">GPT-3SX</s>
+                  </h2>
+                </div>
+            </div>
+          </section>
 		  <section class="section pt-0">
             <div class="container">
                <div class="content is-flex is-justify-content-center">
-                  <figure class="is-flex is-justify-content-center" style="width:900px"> 
-                    <img src="img/gpt3.png">
+                  <figure class="is-flex is-justify-content-center" style="width:800px"> 
+                    <img src="img/puli.jpeg">
                   </figure>
                 </div>
             </div>
@@ -25,7 +34,7 @@
 		  <section class="section">
             <div class="container">
                 <div class="content is-flex is-justify-content-center">
-                  <h2 class="is-flex is-justify-content-center title-blue">
+                  <h2 class="is-justify-content-center title-blue">
                     First ever <strong>&nbsp;Hungarian only&nbsp;</strong> GPT3 NEOX 7B modell
                   </h2>
                 </div>
@@ -110,9 +119,10 @@
                   </h3>
 				 </div>
 				 <div class="content is-flex is-justify-content-center">
-					<p>
-					http://
-					</p>
+					<ul>
+						<li>32.5 Bn words, compiled by NYTK from Common Crawl and own sources</li>
+						<li>The corpus was compiled using a Supermicro A100 node (4 GPUs 80GB RAM each).</li>
+					</ul>
                 </div>
             </div>
           </section>
